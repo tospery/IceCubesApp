@@ -1182,7 +1182,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesNotifications/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = IceCubesNotifications;
@@ -1194,7 +1194,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesNotifications";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesNotifications;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1217,7 +1217,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesNotifications/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = IceCubesNotifications;
@@ -1229,7 +1229,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesNotifications";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesNotifications;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1255,7 +1255,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesAppWidgetsExtension/Info.plist;
@@ -1268,7 +1268,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesAppWidgetsExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesAppWidgetsExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1291,7 +1291,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesAppWidgetsExtension/Info.plist;
@@ -1304,7 +1304,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesAppWidgetsExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesAppWidgetsExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1325,7 +1325,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesShareExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Ice Cubes";
@@ -1337,7 +1337,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesShareExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1359,7 +1359,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesShareExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Ice Cubes";
@@ -1371,7 +1371,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesShareExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1527,7 +1527,7 @@
 				CURRENT_PROJECT_VERSION = 730;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"IceCubesApp/Resources\"";
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1553,7 +1553,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp;
 				PRODUCT_NAME = "Ice Cubes";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
@@ -1583,7 +1583,7 @@
 				CURRENT_PROJECT_VERSION = 730;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"IceCubesApp/Resources\"";
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1609,7 +1609,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp;
 				PRODUCT_NAME = "Ice Cubes";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
@@ -1632,7 +1632,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesActionExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Open in Ice Cube";
@@ -1644,7 +1644,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesActionExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesActionExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1667,7 +1667,7 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 730;
-				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = WDE622528T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IceCubesActionExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Open in Ice Cube";
@@ -1679,7 +1679,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.10.43;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID_PREFIX).IceCubesApp.IceCubesActionExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tospery.IceCubesApp.IceCubesActionExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
